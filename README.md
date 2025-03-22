@@ -22,7 +22,7 @@ Listas estão em todos os lugares e nos ajudam muito a trabalhar um grande volum
 ## 📅 Dia 6
 Depois de praticar como inserir e manipular itens dentro de uma lista, você entenderá como e quando remover um item específico dela.
 
-## Dia 7
+## 📅 Dia 7
 Até aqui, você terá trabalhado em muitos projetos diferentes praticando vários comandos e interação entre eles dentro do Javascript. Mas ainda não falamos de algo essencial que é a organização do nosso código. No sétimo e último dia do desafio, você desenvolverá um projeto maior, para ver como a organização ou falta dela pode afetar a sua produção de código e muitas vezes causar erros que você normalmente não cometeria.
 
 ## 🎖️ Criado por profissionais do mercado
