@@ -1,0 +1,6 @@
+Qual é o seu nome? João
+Quantos anos você tem? 25
+Qual linguagem de programação você está estudando? JavaScript
+Olá João, você tem 25 anos e já está aprendendo JavaScript!
+Você gosta de estudar JavaScript? Responda com 1 para SIM ou 2 para NÃO: 1
+Muito bom! Continue estudando e você terá muito sucesso.

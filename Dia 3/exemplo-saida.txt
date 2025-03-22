@@ -1,0 +1,19 @@
+example_output = """Entrada:
+- Escolha inicial: Front-End
+- Tecnologia escolhida: React
+- Especialização: Fullstack
+- Tecnologias adicionais: Node.js, MongoDB
+
+Saída:
+Área escolhida: Front-End
+Tecnologia escolhida: React
+Especialização: Fullstack
+Tecnologias adicionais:
+- Node.js
+- MongoDB
+"""
+
+with open("Dia3/exemplo-saida.txt", "w") as output_file:
+    output_file.write(example_output)
+
+print("Arquivo exemplo-saida.txt criado com sucesso.")

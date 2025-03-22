@@ -1,0 +1,17 @@
+Entrada:
+numeroUm = 1, stringUm = "1"
+
+Saída Esperada:
+As variáveis numeroUm e stringUm têm o mesmo valor, mas tipos diferentes.
+
+Entrada:
+numeroTrinta = 30, stringTrinta = "30"
+
+Saída Esperada:
+As variáveis numeroTrinta e stringTrinta não têm o mesmo tipo.
+
+Entrada:
+numeroDez = 10, stringDez = "10"
+
+Saída Esperada:
+As variáveis numeroDez e stringDez têm o mesmo valor, mas tipos diferentes.
