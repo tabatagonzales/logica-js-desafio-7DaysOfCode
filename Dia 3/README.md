@@ -1,4 +1,4 @@
-readme_content = """# Desafio Dia 3
+# Desafio Dia 3
 
 ## Problema
 Crie um jogo interativo onde o usuário faça escolhas que influenciam o resultado final. O jogo deve incluir loops e condicionais.
