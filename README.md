@@ -1,6 +1,8 @@
 ## Documentação do Desafio #7DaysOfCode | Alura Cursos Online
 
-Este repositório contém as soluções e aprendizados do desafio de lógica de programação com JavaScript.
+Este repositório contém a solução para o desafio #7DaysOfCode proposto pela Alura, focado em lógica de programação. O objetivo é resolver problemas diários durante 7 dias, aplicando conceitos fundamentais de programação, como estruturas condicionais, laços de repetição, manipulação de variáveis e boas práticas.
+Cada etapa do desafio é apresentada com um problema específico, e a solução é implementada em código com explicações detalhadas.
+
 
 ## 🖥️ Desafio: 
 
@@ -25,9 +27,19 @@ Depois de praticar como inserir e manipular itens dentro de uma lista, você ent
 ## 📅 Dia 7
 Até aqui, você terá trabalhado em muitos projetos diferentes praticando vários comandos e interação entre eles dentro do Javascript. Mas ainda não falamos de algo essencial que é a organização do nosso código. No sétimo e último dia do desafio, você desenvolverá um projeto maior, para ver como a organização ou falta dela pode afetar a sua produção de código e muitas vezes causar erros que você normalmente não cometeria.
 
+## 🌐 Tecnologias Utilizadas
+
+•	Linguagem: JavaScript 
+•	Editor: Visual Studio Code
+•	Versionamento: Git e GitHub
+
 ## 🎖️ Criado por profissionais do mercado
 
 [Alura](https://7daysofcode.io/matricula/logica-programacao)
+
+## ©️ Autor
+
+Desenvolvido por Tabata Gonzales.
 
 
 
